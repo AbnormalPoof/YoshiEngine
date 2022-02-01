@@ -1,6 +1,5 @@
 package;
 
-//FOR MAKING A NEW BRANCH
 /**
 * API stuff used to save score on Newgrounds. Useless in this case.
 */
